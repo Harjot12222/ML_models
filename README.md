@@ -7,7 +7,7 @@ This repository contains projects containing pre built python machine learning m
 3. `03_student_classification.py` — Student pass/fail (classification)  
 4. `04_customer_segmentation.py` — K-Means clustering + PCA visualization  
 5. `05_credit_card_fraud.py` — Fraud detection (classification)  
-6. `06_loan_prediction.py` — Loan approval (classification)  
+6. `06_loan_approval.py` — Loan approval (classification)  
 7. `07_car_price.py` — Car price estimation (regression)  
 8. `08_sales_forecasting.py` — Sales forecasting (time-feature regression)  
 9. `09_healthcare_risk_score.py` — Patient risk scoring (regression)  
